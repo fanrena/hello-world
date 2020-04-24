@@ -1,15 +1,19 @@
 # hello-world
 
 this repo is made for learning how to use github.
-========
+
 nothing important.
-===========
+
 >顺便用来学怎么写md文件吧
 >这是一条引用，前面加的\>  
 
 
 ## 二级标题  
-### 三级标题！  
+### 三级标题！
+等号标题！
+=========
+输入等号  
+ \=
 __强调！__  
 *sssss*  
 **sssss**  
